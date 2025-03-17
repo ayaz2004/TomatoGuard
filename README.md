@@ -1,6 +1,6 @@
 # TomatoGuard: AI-Powered Tomato Disease Detection
 
-![TomatoGuard Application Screenshot](https://github.com/yourusername/TomatoGuard/raw/main/screenshots/application-screenshot.png)
+![TomatoGuard Application Screenshot](https://github.com/ayaz2004/TomatoGuard/application-screenshot.png)
 
 TomatoGuard is a comprehensive web application that uses deep learning to instantly detect and diagnose diseases in tomato plants from leaf images. This tool helps farmers and gardeners identify plant health issues early, providing specific treatment recommendations and preventative measures.
 
